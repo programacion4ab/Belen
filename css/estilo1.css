@@ -1,0 +1,31 @@
+h1{
+	background-color:#00FFFF;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	font-size: 50px;
+}
+h2{
+	color: #4682B4; 
+	font-size: 35px;
+}
+section{
+	font-family: "Arial";
+	padding-left: 35px;
+	font-size: 16px;
+	color: #00204A;
+	text-align: justify;
+	
+}
+#imgaside{
+	padding-left: 45%;
+	padding-right: 45%;
+	}
+footer{
+	clear: both;
+	background-color: #00FFFF;
+	padding: 2px;
+	text-align: center;
+	font-size: 30px;
+}
+

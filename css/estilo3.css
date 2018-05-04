@@ -1,0 +1,40 @@
+
+header{
+background-image: url(../img/back5.jpg );
+padding: 70px;
+text-align: center;
+}
+#uno{
+	color: #FF8364;
+	background-color: #ECF0F1; 
+	padding: 10PX;
+}
+#dos{
+	color: #FF4D4D;
+	background-color: #ECF0F1; 
+	padding: 20PX;
+}
+
+p{
+	color: #606470;
+}
+footer{
+background-color: pink;
+padding: 30px;
+
+}
+.modelo{
+	text-align: center;
+}
+.tex{
+	color: #FFB6B9;
+}
+body{
+	text-align: justify;
+	margin-left: 15%;
+	margin-right: 15%;
+
+}
+figure{
+	margin: 30px;
+}
